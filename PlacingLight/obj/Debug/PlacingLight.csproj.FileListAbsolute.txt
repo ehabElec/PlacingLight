@@ -1,0 +1,4 @@
+C:\Users\ehab.ALBURJ-AUH\Documents\Visual Studio 2015\Projects\PlacingLight\PlacingLight\bin\Debug\PlacingLight.dll
+C:\Users\ehab.ALBURJ-AUH\Documents\Visual Studio 2015\Projects\PlacingLight\PlacingLight\bin\Debug\PlacingLight.pdb
+C:\Users\ehab.ALBURJ-AUH\Documents\Visual Studio 2015\Projects\PlacingLight\PlacingLight\obj\Debug\PlacingLight.dll
+C:\Users\ehab.ALBURJ-AUH\Documents\Visual Studio 2015\Projects\PlacingLight\PlacingLight\obj\Debug\PlacingLight.pdb
